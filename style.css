@@ -52,12 +52,10 @@ body {
   stroke-dasharray: 500;
   stroke-dashoffset: 500;
   animation: line-anim 2s ease forwards 1.5s;
-  width: 1px;
-  height: 1px;
 }
 #logo path:nth-child(7) {
-  stroke-dasharray: 141;
-  stroke-dashoffset: 141;
+  stroke-dasharray: 650;
+  stroke-dashoffset: 650;
   animation: line-anim 2s ease forwards 1.8s;
 }
 #logo path:nth-child(6) {
