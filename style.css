@@ -74,19 +74,19 @@ body {
   animation: line-anim 2s ease forwards 2.7s;
 }
 #logo path:nth-child(3) {
-  stroke-dasharray: 232;
-  stroke-dashoffset: 232;
+  stroke-dasharray: 420;
+  stroke-dashoffset: 420;
   animation: line-anim 2s ease forwards 2.9s;
 }
 #logo path:nth-child(2) {
-  stroke-dasharray: 385;
-  stroke-dashoffset: 385;
-  animation: line-anim 2s ease forwards 3.2s;
+  stroke-dasharray: 650;
+  stroke-dashoffset: 650;
+  animation: line-anim 2s ease forwards 3.1s;
 }
 #logo path:nth-child(1) {
   stroke-dasharray: 471;
   stroke-dashoffset: 471;
-  animation: line-anim 2s ease forwards 3.5s;
+  animation: line-anim 2s ease forwards 3.7s;
 }
 
 @keyframes line-anim {
@@ -101,6 +101,6 @@ body {
   }
 
   to {
-    fill: black;
+    fill: rgb(53, 5, 5);
   }
 }
