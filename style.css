@@ -79,8 +79,8 @@ body {
   animation: line-anim 2s ease forwards 2.9s;
 }
 #logo path:nth-child(13) {
-  stroke-dasharray: 650;
-  stroke-dashoffset: 650;
+  stroke-dasharray: 610;
+  stroke-dashoffset: 610;
   animation: line-anim 2s ease forwards 3.1s;
 }
 #logo path:nth-child(14) {
