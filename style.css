@@ -96,9 +96,9 @@ body {
 }
 
 @keyframes fill {
-  /* from {
+  from {
     fill: transparent;
-  } */
+  }
 
   to {
     fill: rgb(96, 165, 250);
