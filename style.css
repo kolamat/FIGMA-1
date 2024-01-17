@@ -19,8 +19,8 @@ body {
 }
 
 #logo path:nth-child(1) {
-  stroke-dasharray: 471;
-  stroke-dashoffset: 471;
+  stroke-dasharray: 485;
+  stroke-dashoffset: 485;
   animation: line-anim 2s ease forwards;
 }
 #logo path:nth-child(2) {
@@ -84,8 +84,8 @@ body {
   animation: line-anim 2s ease forwards 3.1s;
 }
 #logo path:nth-child(14) {
-  stroke-dasharray: 485;
-  stroke-dashoffset: 485;
+  stroke-dasharray: 471;
+  stroke-dashoffset: 471;
   animation: line-anim 2s ease forwards 3.7s;
 }
 
