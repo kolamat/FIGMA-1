@@ -86,7 +86,7 @@ body {
 #logo path:nth-child(13) {
   stroke-dasharray: 610;
   stroke-dashoffset: 610;
-  animation: line-anim 2s ease forwards 6.8s;
+  animation: line-anim 2s ease forwards 6.6s;
 }
 #logo path:nth-child(14) {
   stroke-dasharray: 471;
