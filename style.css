@@ -108,18 +108,18 @@ body {
 }
 
 #seclogo path:nth-child(1) {
-  stroke-dasharray: 485;
-  stroke-dashoffset: 485;
+  stroke-dasharray: 555;
+  stroke-dashoffset: 555;
   animation: line-anim 2s ease forwards;
 }
 #seclogo path:nth-child(2) {
-  stroke-dasharray: 607;
-  stroke-dashoffset: 607;
+  stroke-dasharray: 205;
+  stroke-dashoffset: 205;
   animation: line-anim 2s ease forwards 0.3s;
 }
 #seclogo path:nth-child(3) {
-  stroke-dasharray: 390;
-  stroke-dashoffset: 390;
+  stroke-dasharray: 50;
+  stroke-dashoffset: 50;
   animation: line-anim 2s ease forwards 0.6s;
 }
 #seclogo path:nth-child(4) {
