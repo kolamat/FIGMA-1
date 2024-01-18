@@ -167,16 +167,6 @@ body {
   stroke-dashoffset: 420;
   animation: line-anim 2s ease forwards 2.9s;
 }
-/* #seclogo path:nth-child(13) {
-  stroke-dasharray: 610;
-  stroke-dashoffset: 610;
-  animation: line-anim 2s ease forwards 3.1s;
-}
-#seclogo path:nth-child(14) {
-  stroke-dasharray: 471;
-  stroke-dashoffset: 471;
-  animation: line-anim 2s ease forwards 3.7s;
-} */
 
 @keyframes line-anim {
   to {
