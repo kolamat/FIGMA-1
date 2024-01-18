@@ -183,19 +183,3 @@ body {
   stroke-dashoffset: 420;
   animation: line-anim2 2s ease forwards 2.9s;
 }
-
-@keyframes line-anim2 {
-  to {
-    stroke-dashoffset: 0;
-  }
-}
-
-@keyframes fill2 {
-  from {
-    fill: transparent;
-  }
-
-  to {
-    fill: rgb(96, 165, 250);
-  }
-}
