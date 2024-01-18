@@ -174,7 +174,7 @@ body {
   animation: line-anim2 2s ease forwards 2.9s;
 }
 
-@keyframes line-anim2 {
+@keyframes line-anim {
   to {
     stroke-dashoffset: 0;
   }
