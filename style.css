@@ -162,11 +162,11 @@ body {
   stroke-dashoffset: 437;
   animation: line-anim 2s ease forwards 2.7s;
 }
-/* #seclogo path:nth-child(12) {
+#seclogo path:nth-child(12) {
   stroke-dasharray: 420;
   stroke-dashoffset: 420;
   animation: line-anim 2s ease forwards 2.9s;
-} */
+}
 /* #seclogo path:nth-child(13) {
   stroke-dasharray: 610;
   stroke-dashoffset: 610;
