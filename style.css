@@ -138,8 +138,8 @@ body {
   animation: line-anim 2s ease forwards 1.5s;
 }
 #seclogo path:nth-child(7) {
-  stroke-dasharray: 500;
-  stroke-dashoffset: 500;
+  stroke-dasharray: 740;
+  stroke-dashoffset: 740;
   animation: line-anim 2s ease forwards 1.5s;
 }
 #seclogo path:nth-child(8) {
