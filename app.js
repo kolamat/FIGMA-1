@@ -5,7 +5,7 @@ for (let i = 0; i < Logo.length; i++) {
 }
 
 anime({
-  targets: "#seclogo path",
+  targets: "#seclogo",
   strokeDashoffset: [anime.setDashoffset, 0],
   easing: "easeInOutSine",
   duration: 1500,
