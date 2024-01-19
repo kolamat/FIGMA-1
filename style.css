@@ -18,11 +18,6 @@ body {
   animation: fill 0.5s ease forwards 8s;
 }
 
-#logo:hover {
-  cursor: pointer;
-  fill: black;
-}
-
 #logo path:nth-child(1) {
   stroke-dasharray: 485;
   stroke-dashoffset: 485;
