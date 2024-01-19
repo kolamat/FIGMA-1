@@ -13,5 +13,5 @@ anime({
     return i * 250;
   },
   direction: "alternate",
-  loop: true,
+  loop: false,
 });
