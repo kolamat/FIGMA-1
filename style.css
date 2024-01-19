@@ -113,11 +113,6 @@ body {
   animation: fill 0.5s ease forwards 4.5s;
 }
 
-#seclogo:hover {
-  cursor: pointer;
-  fill: black;
-}
-
 #seclogo path:nth-child(1) {
   stroke-dasharray: 555;
   stroke-dashoffset: 555;
