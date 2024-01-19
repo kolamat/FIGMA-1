@@ -105,7 +105,7 @@ body {
   }
 }
 
-#seclogo {
+/* #seclogo {
   position: absolute;
   top: 30%;
   left: 50%;
@@ -188,4 +188,4 @@ body {
   to {
     fill: rgb(96, 165, 250);
   }
-}
+} */
